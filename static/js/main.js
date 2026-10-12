@@ -33,4 +33,15 @@
       button.querySelector("span").textContent = "Select manually";
     }
   });
+  document.querySelector("#contact-form")?.addEventListener("submit", (event) => {
+    event.preventDefault();
+    const form = event.currentTarget;
+    const data = new FormData(form);
+    const name = String(data.get("name") || "").trim();
+    const email = String(data.get("email") || "").trim();
+    const message = String(data.get("message") || "").trim();
+    const subject = encodeURIComponent(`Portfolio message from ${name}`);
+    const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\n${message}`);
+    window.location.href = `mailto:shanta15-4953@diu.edu.bd?subject=${subject}&body=${body}`;
+  });
 })();
