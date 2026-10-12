@@ -13,8 +13,7 @@ human-centered digital experiences and applying data-driven problem solving.
 
 EDUCATION
 M.Sc. in Data Science — Ongoing / enrolled
-B.Sc. in Computer Science & Engineering — Daffodil International University, Ashulia
-Official CGPA and passing year: not present in the supplied project documents
+B.Sc. in Computer Science & Engineering — Daffodil International University, Ashulia — CGPA 2.92, awarded 2026
 HSC — Kushtia Government College, Jessore Board, 2019 — GPA 5.00
 SSC — Police Lines School and College, Kushtia, Jessore Board, 2017 — GPA 5.00
 JSC — Kaya Islamia High School, Jessore Board, 2014 — GPA 5.00
@@ -26,4 +25,5 @@ HTML, CSS, JavaScript, responsive UI, Git, research thinking, documentation.
 EXTRACURRICULAR
 First place in a childhood drawing/art competition; cultural dance; sports; photography.
 
-Note: Parents' names, B.Sc. CGPA and passing year were not available in the supplied files.
+National ID: 3768569497
+Parents: Md. Abdus Samad (father), Salma Samad (mother)
