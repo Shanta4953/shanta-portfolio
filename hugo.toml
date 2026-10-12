@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Sohana Sultana Shanta — Software Developer"
 enableRobotsTXT = true
 
