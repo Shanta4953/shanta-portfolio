@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Sohana Sultana Shanta — Software Developer"
+enableRobotsTXT = true
+
+[params]
+  description = "Portfolio of Sohana Sultana Shanta, an aspiring software developer and data science enthusiast."
+  author = "Sohana Sultana Shanta"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[minify]
+  minifyOutput = true
